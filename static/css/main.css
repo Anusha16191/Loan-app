@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(rgb(231, 151, 151), rgb(156, 118, 199), rgb(79, 70, 206));
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Google Sans',Roboto,Arial,sans-serif;
+}
+.vendor{
+    border: 2px black solid;
+    border-radius: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(241, 140, 67);
+    height: 75px;
+}
+.lender{
+    border: 2px black solid;
+    border-radius: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(132, 165, 204);  
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(190, 15, 88);
+}
+
+.container{
+    background-color: cadetblue;
+    overflow:hidden;  
+}
+.container a{
+    float:left;
+    color: white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
